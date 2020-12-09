@@ -1,0 +1,79 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+}
+header{
+    background: url(../img/banner.png) no-repeat;
+    background-size: cover;
+    
+    padding-top: 200px;
+    padding-bottom: 150px;
+}
+header h1{
+    font-size: 60px;
+   
+}
+.Custom{
+    color: white;
+    border-radius: 10px;
+}
+.bt{
+    box-sizing: border-box;
+    border: 5px solid whitesmoke;
+    background-color: whitesmoke;
+    color: rgb(245, 9, 21);
+    border-radius: 40px;
+    
+}
+.btk{
+    box-sizing: border-box;
+    border: 5px solid whitesmoke;
+    background-color: skyblue;
+    color: rgb(245, 9, 21);
+    width: 150px;
+    border-radius: 20px;
+}
+
+.pd{
+    padding-top: 200px;
+    padding-bottom: 150px;
+}
+#contact{
+    background: url(../img/newsletter.png);
+}
+.for{
+    margin: 0 auto;
+    border-radius: 20px;
+    box-sizing: border-box;
+    border: 1px solid;
+    width: 30%;
+    text-align: center;
+    background-color: #bcb9b6;
+    
+    
+}
+.lorem{
+    margin-left: 700px;
+}
+ul{
+    list-style-type: none;
+    
+}
+li{
+    font-weight: 10px;
+    font-size: small;
+    
+} 
+  
+#food{
+    background: url(../img/newsletter.png);
+    height: 200px;
+}
+.bb{
+   margin-left: 500px;
+   color: springgreen;
+   padding-top: 10px;
+   
+}
